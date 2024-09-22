@@ -1,2 +1,3 @@
-# dsa
+# DSA
 I’m focused on solving DSA problems to build a strong understanding and enhance my logical thinking skills. Join me as I tackle challenges that help improve problem-solving abilities!
+I’m passionate about Data Structures and Algorithms (DSA) and am working on solving problems using C++. My goal is to build a strong understanding of key concepts and improve my logical thinking skills. Each DSA question I tackle helps me learn different techniques and approaches, which are important for programming and technical interviews. I want to create a collection of solved problems that can help others, too. I invite fellow learners to join me on this journey, as we can share ideas and tackle challenges together to become better problem solvers!
